@@ -51,6 +51,7 @@ class BlueprintLLMProfile(BaseModel):
         "xiaomi",
         "cloudflare",
         "meituan",
+        "orcarouter",
         # STT providers (Input Composer Phase D)
         "whisper-local",
         "whisper-api",

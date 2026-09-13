@@ -105,6 +105,7 @@ class LLMService:
         "xiaomi": ["XIAOMI_API_KEY"],
         "opencode-zen": ["OPENCODE_ZEN_API_KEY"],
         "meituan": ["MEITUAN_API_KEY"],
+        "orcarouter": ["ORCAROUTER_API_KEY"],
     }
 
     def _get_user_key_store(self) -> Any:

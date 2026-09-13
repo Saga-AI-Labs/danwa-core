@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2e42ed74-e106-4a4c-98c2-26ab4df2fd29",
+    "tenant_id": "dbb2006c-0516-4cbd-b1ed-bd8f1d84d7a2",
+    "name": "Krankenversicherung",
+    "color": "#3b82f6",
+    "parent_id": null,
+    "created_at": "2026-06-20T01:48:05.155360Z"
+  },
+  {
+    "id": "cdafcdf5-775d-4e1f-81ff-7fe17d2b5b6a",
+    "tenant_id": "dbb2006c-0516-4cbd-b1ed-bd8f1d84d7a2",
+    "name": "SGB II",
+    "color": "#3b82f6",
+    "parent_id": null,
+    "created_at": "2026-07-30T21:12:34.760570Z"
+  }
+]

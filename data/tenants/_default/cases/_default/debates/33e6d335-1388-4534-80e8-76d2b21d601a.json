@@ -1,0 +1,22 @@
+{
+  "debate_id": "33e6d335-1388-4534-80e8-76d2b21d601a",
+  "session_id": "wf-54d5fe5bd054",
+  "status": "failed",
+  "title": "his is just a test. Please describe who you are and what is asked of you.",
+  "request": {
+    "case": {
+      "text": "his is just a test. Please describe who you are and what is asked of you."
+    },
+    "max_rounds": 5
+  },
+  "max_rounds": 5,
+  "current_round": 0,
+  "rounds": [],
+  "created_at": "2026-06-27 02:50:22.506147+00:00",
+  "updated_at": "2026-06-27 02:50:22.506147+00:00",
+  "result": null,
+  "is_mvp": true,
+  "workflow_id": "wf-810eaa3e",
+  "workflow_name": "his is just a test. Please describe who you are and what is asked of you. (Structured Interview)",
+  "error": "Recursion limit of 100 reached without hitting a stop condition. You can increase the limit by setting the `recursion_limit` config key.\nFor troubleshooting, visit: https://docs.langchain.com/oss/python/langgraph/errors/GRAPH_RECURSION_LIMIT"
+}

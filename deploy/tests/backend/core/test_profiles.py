@@ -24,6 +24,7 @@ def test_llm_provider_values() -> None:
     assert LLMProvider.DEEPSEEK == "deepseek"
     assert LLMProvider.CLOUDFLARE == "cloudflare"
     assert LLMProvider.MEITUAN == "meituan"
+    assert LLMProvider.ORCAROUTER == "orcarouter"
 
 
 def test_llm_provider_string_alias() -> None:

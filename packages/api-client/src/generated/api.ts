@@ -2614,7 +2614,7 @@ export interface components {
        * Provider
        * @enum {string}
        */
-      provider: "openrouter" | "openai" | "anthropic" | "deepseek" | "local" | "ollama" | "opencode-zen" | "opencode-go" | "xiaomi" | "cloudflare" | "whisper-local" | "whisper-api" | "azure-stt" | "google-stt";
+      provider: "openrouter" | "openai" | "anthropic" | "deepseek" | "local" | "ollama" | "opencode-zen" | "opencode-go" | "xiaomi" | "cloudflare" | "meituan" | "orcarouter" | "whisper-local" | "whisper-api" | "azure-stt" | "google-stt";
       /** Model */
       model: string;
       /** Api Base */
@@ -4335,7 +4335,7 @@ export interface components {
      * @description Supported LLM providers.
      * @enum {string}
      */
-    LLMProvider: "openrouter" | "openai" | "anthropic" | "local" | "ollama" | "opencode-zen" | "opencode-go" | "xiaomi" | "deepseek" | "cloudflare";
+    LLMProvider: "openrouter" | "openai" | "anthropic" | "local" | "ollama" | "opencode-zen" | "opencode-go" | "xiaomi" | "deepseek" | "cloudflare" | "meituan" | "orcarouter";
     /**
      * LanguageBody
      * @description Language update body.

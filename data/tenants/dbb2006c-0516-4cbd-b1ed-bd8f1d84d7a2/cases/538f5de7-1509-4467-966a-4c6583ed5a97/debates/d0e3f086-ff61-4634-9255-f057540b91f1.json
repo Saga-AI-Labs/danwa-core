@@ -1,0 +1,27 @@
+{
+  "debate_id": "d0e3f086-ff61-4634-9255-f057540b91f1",
+  "session_id": "wf-40b0f2438661",
+  "status": "deleted",
+  "title": "Therapiefreiheit in der gesetzlichen Krankenversicherung: Naturheilkunde zwischen Patientenrecht und Sparzwang",
+  "request": {
+    "case": {
+      "text": "Ein Spargesetz ist geplant, mit weitreichenden Folgen für deine Versorgung. Homöopathische und anthroposophische Therapien sollen als Leistungen der Krankenkassen gestrichen werden. Inzwischen ist der Gesetzentwurf mit den Streichungen vom Kabinett beschlossen worden. Begründung: fehlende Wirksamkeit. Vorliegende wissenschaftliche Studien und Erfahrungswerte aus der Praxis wurden bei der Entscheidung ignoriert, Patientenverbände nicht angehört.\n\nJahrzehntelang galt in der gesetzlichen Krankenversicherung In Deutschland das Versprechen: Der Versicherte kann wählen. Naturheilkunde neben Schulmedizin. Anthroposophische Medizin gemeinsam mit Chemotherapie. Verschiedene Wege zur Gesundheit, die sich sinnvoll ergänzen. Mit dem neuen Gesetz wird dieses Versprechen gebrochen.\n\nDie Debatte dreht sich um 0,01% der Gesamtausgaben: Homöopathie und anthroposophische Therapien kosten die Kassen rund 40 Millionen Euro jährlich. Die Streichungen sparen also nicht Ausgaben, sondern verschieben Kosten einfach nur in teurere Behandlungen. Wenn homöopathische und anthroposophische Therapien als Leistungen der Krankenkassen gestrichen werden, dann bedeutet das, das gesetzliche Krankenkassen diese Leistungen auch nicht mehr optional anbeiten dürfen.\n\nEntwickelt bitte eine überzeugende Argumentation für Beibehaltung und Ausbau der Therapiefreiheit für Naturheilkunde sowie homöopathische und anthroposophische Therapien als notwendiger Bestandteil der Grundversorgung der gesetzlichen Krankenversicherungen.\n\nArgumentiert ausschließlich inhaltlich und auf Basis von:\n1. Gesundheitsökonomischen Daten (Kostenvermeidung, Patientenzufriedenheit)\n2. Verfassungsrechtlichen Aspekten (Therapiefreiheit, Gleichbehandlung)\n3. Evidenzlage zu Wirksamkeit und Nebenwirkungsprofilen im Vergleich\n4. Versorgungsrealität (was passiert wenn diese Therapien wegfallen)\n\nEntiwcklung politischer Kampagnenstrategien u.ä. ist _nicht_ Ziel. Es geht um Argumente."
+    },
+    "max_rounds": 5
+  },
+  "max_rounds": 5,
+  "current_round": 0,
+  "rounds": [],
+  "created_at": "2026-06-19 17:51:23.581653+00:00",
+  "updated_at": "2026-06-19 17:51:23.581653+00:00",
+  "result": null,
+  "is_mvp": true,
+  "llm_assignments": {
+    "strategist": "0d14655f-c0a9-42ac-b62a-6cc23854e371",
+    "critic": "b006090a-3ed2-4e58-bf30-2942438856b1",
+    "optimizer": "tokenrouter-iniax-3-268k",
+    "moderator": "b006090a-3ed2-4e58-bf30-2942438856b1"
+  },
+  "deleted_at": "2026-06-20T02:29:52.719933+00:00",
+  "archived_at": "2026-06-20T02:29:52.719933+00:00"
+}

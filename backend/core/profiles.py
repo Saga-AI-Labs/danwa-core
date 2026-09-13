@@ -26,6 +26,7 @@ class LLMProvider(StrEnum):
     DEEPSEEK = "deepseek"
     CLOUDFLARE = "cloudflare"
     MEITUAN = "meituan"
+    ORCAROUTER = "orcarouter"
 
 
 class LLMProfile(BaseModel):

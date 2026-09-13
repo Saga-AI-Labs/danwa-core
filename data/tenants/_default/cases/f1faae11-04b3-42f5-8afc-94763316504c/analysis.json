@@ -1,0 +1,168 @@
+{
+  "case_summary": "Der Kläger beantragte am 12.10.2025 Bürgergeld beim Jobcenter Berlin Charlottenburg-Wilmersdorf, nachdem er aufgrund einer Kontopfändung durch seine Krankenversicherung seine Mietwohnung und damit die Betriebsstätte seines Einzelunternehmens verloren hatte. Trotz Einreichung umfangreicher Unterlagen (rund 200 Seiten) und mehrfacher Bitten um Beratungstermine verweigerte das Jobcenter nach seinen Angaben die inhaltliche Antragsberatung und forderte wiederholt nicht existierende oder bereits vorgelegte Dokumente an. Am 09.02.2026 lehnte das Jobcenter den Antrag mit der Begründung ab, der Kläger sei seiner Mitwirkungspflicht nicht nachgekommen, weshalb die Hilfebedürftigkeit nicht feststellbar sei. Der dagegen gerichtete Widerspruch vom 22.02.2026 wurde mit Widerspruchsbescheid vom 09.06.2026 zurückgewiesen, nachdem zuvor am 01.06.2026 Klage mit einem gestaffelten Antrag auf einstweilige Anordnung, Untätigkeitsklage und Anfechtungs-/Verpflichtungsklage erhoben worden war.\n\nIm Kern streiten die Parteien darüber, ob der Kläger durch Vorlage aller zumutbaren Unterlagen seine Mitwirkungspflichten erfüllt hat und ob das Jobcenter zu Recht von einer fehlenden Hilfebedürftigkeit ausgeht. Der Kläger bestreitet, bei einem Vor-Ort-Termin am 03.11.2025 jegliche Auskunft verweigert zu haben und macht geltend, die Beklagte verschleppe die Entscheidung durch Anforderung inexistenter britischer Kontoauszüge einer angeblichen Gesellschaft namens „Wetena RDC Ltd.“ sowie durch das Ignorieren bereits eingereichter Solaris-Kontoauszüge. Die Beklagte hält dem entgegen, der Kläger habe die fehlende Mitwirkung zu vertreten und die Antragstellung ziele vorrangig auf die Übernahme der Krankenversicherungsbeiträge, ohne dass eine tatsächliche Bedürftigkeit nachgewiesen sei.\n\nIm gerichtlichen Verfahren verfolgt der Kläger nunmehr nach Erlass des Widerspruchsbescheides als Hauptantrag die Aufhebung dieses Bescheides und die Verpflichtung zur Gewährung von Bürgergeld in Höhe von 837,08 € monatlich ab 01.10.2025, hilfsweise die Aufhebung des Ablehnungsbescheides sowie eine einstweilige Anordnung zur vorläufigen Leistungsgewährung. Das Jobcenter beantragt die Ablehnung des Eilantrags und hält an seiner Auffassung fehlender Erfolgsaussichten fest.",
+  "key_facts": [
+    "Der Kläger beantragte am 12.10.2025 Bürgergeld ab 01.10.2025 (Regelbedarf 563 € + KV/PV 274,08 € = 837,08 € monatlich).",
+    "Er hat kein Einkommen oberhalb des sächlichen Existenzminimums; das Einkommen aus selbständiger Tätigkeit ist von ca. 30.000 € auf 2.937 € jährlich gesunken.",
+    "Am 03.11.2025 fand ein Termin zur Identitätsprüfung bei Frau Vujinic statt, der nach Angaben des Klägers ausschließlich der Personalausweisvorlage diente; Gespräche über Krankenversicherungsbeiträge fanden nicht statt.",
+    "Am 21.11.2025 folgte ein zweiter Termin bei Herrn Littmann, in dem der Kläger über seinen Lebenslauf und die Notwendigkeit der Antragstellung sprach; auch dort wurde er auf Beratungsinhalte nicht eingegangen.",
+    "Der Kläger reichte mit Schreiben vom 06.11.2025 ca. 200 Seiten an Unterlagen ein, darunter Kontoauszüge des Solaris-Geschäftskontos (IBAN DE96 1101 0101 5609 0555 81) und Dokumente zur Wetena Ltd.",
+    "Das Jobcenter forderte wiederholt Unterlagen an (Schreiben vom 24.10.2025, 08.12.2025, 21.01.2026), u.a. einen Gesellschaftsvertrag der Wetena RDC Ltd. & Co. KG, vollständigen Mietvertrag, erneute Anlage EKS und Kontoauszüge britischer Konten.",
+    "Der Solaris-Account wurde am 04.11.2025 geschlossen, 23 Tage nach Antragstellung; die Beklagte hält diesen zeitlichen Zusammenhang für erklärungsbedürftig.",
+    "Mit Bescheid vom 09.02.2026 lehnte das Jobcenter den Antrag ab, weil der Kläger seinen Mitwirkungspflichten nicht nachgekommen sei.",
+    "Der Widerspruch vom 22.02.2026 wurde mit Widerspruchsbescheid vom 09.06.2026 als unbegründet zurückgewiesen.",
+    "Am 01.06.2026 erhob der Kläger Klage vor dem Sozialgericht Berlin (SGG 95502/0078175) und stellte einen Eilantrag (S 201 AS 4623/26 ER) auf vorläufige Leistungen.",
+    "Nach Klageerhebung passte der Kläger die Anträge an: Hauptantrag auf Aufhebung des Widerspruchsbescheides und Verpflichtung zur Leistung, Hilfsantrag auf einstweilige Anordnung, Untätigkeitsklage für erledigt erklärt.",
+    "Die Beklagte beantragte im Eilverfahren die Ablehnung des Antrags und bestritt Anordnungsanspruch wie -grund.",
+    "Der Kläger lebt nach eigenen Angaben wohnungslos, aber bei seinen Eltern; Kosten der Unterkunft werden nicht geltend gemacht."
+  ],
+  "parties": [
+    {
+      "name": "Kläger (anonymisiert)",
+      "role": "Leistungsberechtigter, Antragsteller",
+      "positions": "Hält sich für hilfebedürftig, hat alle zumutbaren Unterlagen eingereicht; die Beklagte verweigert pflichtwidrig die Beratung und fordert nicht existierende Dokumente. Er begehrt Bürgergeld i.H.v. 837,08 €/Monat sowie vorläufigen Rechtsschutz."
+    },
+    {
+      "name": "Jobcenter Berlin Charlottenburg-Wilmersdorf",
+      "role": "Beklagte, Sozialleistungsträger",
+      "positions": "Die Hilfebedürftigkeit sei nicht nachgewiesen, da wesentliche Unterlagen fehlen; der Kläger habe bei einem Termin Auskünfte verweigert und das eigentliche Ziel sei nur die Übernahme der Krankenversicherungsbeiträge. Sie beantragt die Ablehnung von Eilantrag und Klage."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "12.10.2025",
+      "event": "Antrag auf Bürgergeld gestellt, Anlagen HA, SV, BB, HG, VM, EK, EKS und Anschreiben eingereicht."
+    },
+    {
+      "date": "24.10.2025",
+      "event": "Jobcenter fordert weitere Unterlagen an, u.a. aktuelle Mitgliedsbescheinigung, Anlage EKS, Kontoauszüge, Geschäftskontoauszüge."
+    },
+    {
+      "date": "03.11.2025",
+      "event": "Termin zur Identitätsprüfung bei Frau Vujinic, Raum 4.067 „Geflüchtete“. Nach Darstellung des Klägers nur Vorlage des Personalausweises, keine inhaltliche Besprechung."
+    },
+    {
+      "date": "06.11.2025",
+      "event": "Kläger reicht umfangreiches Dokumenten-Konglomerat (ca. 200 Seiten) ein, darunter Kontoauszüge Solaris-Konto und Unternehmensdokumente."
+    },
+    {
+      "date": "21.11.2025",
+      "event": "Zweiter Termin bei Herrn Littmann; Besprechung des Lebenslaufs und der Antragsgründe; der Kläger bekommt keine Antworten auf seine Fragen, da der Sachbearbeiter sich für nicht zuständig erklärt."
+    },
+    {
+      "date": "08.12.2025",
+      "event": "Jobcenter sendet erneute Anforderung von Unterlagen, u.a. fehlende Kontoauszüge, Gesellschaftsvertrag, vollständigen Mietvertrag."
+    },
+    {
+      "date": "17.12.2025",
+      "event": "Kläger übersendet erneut Kontoauszüge und andere Unterlagen und rügt unzuständige Beratung."
+    },
+    {
+      "date": "21.01.2026",
+      "event": "Jobcenter sendet Erinnerungsschreiben und listet fehlende Unterlagen, u.a. erneute Anlage EKS, Konten Dritter mit vollen IBAN."
+    },
+    {
+      "date": "04.02.2026",
+      "event": "Kläger antwortet auf das Schreiben vom 21.01.2026 und hinterfragt die Forderungen, insbesondere die Kontoauszüge der Eltern."
+    },
+    {
+      "date": "09.02.2026",
+      "event": "Ablehnungsbescheid des Jobcenters: Antrag auf Bürgergeld ab 01.10.2025 abgelehnt wegen fehlender Mitwirkung."
+    },
+    {
+      "date": "22.02.2026",
+      "event": "Kläger erhebt Widerspruch gegen den Ablehnungsbescheid."
+    },
+    {
+      "date": "10.03.2026",
+      "event": "Jobcenter bestätigt Widerspruchseingang und fordert letztmalig Unterlagen bis 25.03.2026."
+    },
+    {
+      "date": "01.06.2026",
+      "event": "Klageerhebung mit gestaffelten Anträgen: einstweilige Anordnung, Untätigkeitsklage, Anfechtungs-/Verpflichtungsklage."
+    },
+    {
+      "date": "08.06.2026",
+      "event": "Jobcenter reicht Stellungnahme im EA-Verfahren S 201 AS 4623/26 ER ein und beantragt Ablehnung."
+    },
+    {
+      "date": "09.06.2026",
+      "event": "Erlass des Widerspruchsbescheides – der Widerspruch wird als unbegründet zurückgewiesen."
+    },
+    {
+      "date": "14.06.2026",
+      "event": "Schriftsatz des Klägervertreters: Anpassung der Anträge nach Widerspruchsbescheid; Hauptantrag auf Aufhebung des Widerspruchsbescheides und Verpflichtung; Eilantrag weiterhin aufrechterhalten; Untätigkeitsklage für erledigt erklärt."
+    }
+  ],
+  "key_issues": [
+    "Ob der Kläger seine Mitwirkungspflichten nach § 60 SGB I erfüllt hat und ob die Ablehnung des Bürgergeldes mangels Nachweises der Hilfebedürftigkeit rechtmäßig war.",
+    "Ob die Beklagte durch die Anforderung nicht existenter Unterlagen (britische Konten einer inexistenten Firma „Wetena RDC Ltd.“) und das beharrliche Verlangen bereits eingereichter Dokumente gegen ihre Beratungs- und Amtsermittlungspflicht verstoßen hat.",
+    "Ob der Kläger tatsächlich hilfebedürftig ist, insbesondere angesichts des Geschäftskontos bei der Solaris SE, das kurz nach Antragstellung geschlossen wurde, sowie der angeblichen Verfügungsberechtigung über Konten seiner Eltern aufgrund von Vorsorgevollmachten.",
+    "Ob die Behauptungen der Beklagten über eine Verweigerung der Auskunft durch den Kläger während des Termins am 03.11.2025 zutreffen und ob daraus eine fehlende Bedürftigkeit abgeleitet werden kann.",
+    "Ob die Voraussetzungen für eine einstweilige Anordnung (§ 86b Abs. 2 S. 2 SGG) vorliegen – insbesondere Anordnungsanspruch (Erfolgsaussicht in der Hauptsache) und Anordnungsgrund (Dringlichkeit wegen Wohnungslosigkeit und drohender Leistungssperre der Krankenversicherung)."
+  ],
+  "documents": [
+    {
+      "filename": "Schriftsatz_UA_EA_AV_SGG_95502_00810_26.md",
+      "summary": "Anwaltlicher Schriftsatz vom 14.06.2026, der nach Erlass des Widerspruchsbescheides die Anträge anpasst. Hauptantrag nun Aufhebung des Widerspruchsbescheides und Verpflichtung zur Bürgergeldgewährung; Hilfsantrag auf einstweilige Anordnung; Untätigkeitsklage für erledigt erklärt. Begründung u.a. mit unrichtiger Darstellung der Vor-Ort-Termine, bereits eingereichten Solaris-Kontoauszügen und der unzumutbaren Forderung nach britischen Kontoauszügen.",
+      "key_excerpts": [
+        "Der Widerspruchsbescheid vom 09.06.2026 stützt sich auf dieselben unwahren Behauptungen wie der Ablehnungsbescheid vom 09.02.2026.",
+        "Die Beklagte behauptet im Widerspruchsbescheid, der Kläger habe beim Termin am 03.11.2025 „aus Datenschutzgründen keine weiteren Angaben machen wollen“ und habe „Auskünfte zur Sache ausdrücklich verweigert“. Dies ist unwahr.",
+        "Tatsächlich hatte der Kläger lückenlose Kontoauszüge für dieses Konto (Juni–Oktober 2025) bereits im Dokumenten-Konglomerat vom 06.11.2025 eingereicht."
+      ]
+    },
+    {
+      "filename": "Schriftsatz_Erwiderung_EA_S201_AS_4623_26_ER.md",
+      "summary": "Erwiderung des Klägervertreters vom 14.06.2026 auf die Stellungnahme der Beklagten im Eilverfahren. Weist die Darstellung der Termine als falsch zurück, stellt klar, dass alle Unterlagen eingereicht wurden, und rügt die Forderung nach britischen Kontoauszügen sowie die angebliche Mitwirkungsverweigerung als sittenwidrig.",
+      "key_excerpts": [
+        "Die Behauptung der Beklagten, der Kläger habe „aus Datenschutzgründen“ keine Angaben machen wollen, ist schon deshalb nicht plausibel, weil der Kläger bereits im Anschreiben zum Antrag vom 12.10.2025 ausdrücklich um eine Terminvereinbarung gebeten hatte.",
+        "Die Beklagte begründet die Ablehnung des Bürgergeld-Antrags des Klägers damit, dass sie Dokumente und Erklärungen wünscht, die bereits vor über sieben Monaten vorgelegt worden waren."
+      ]
+    },
+    {
+      "filename": "2026-06-14 - Notitzen Erwiderung.txt",
+      "summary": "Auftraggebernotizen für den Anwalt mit stichpunktartigen Hinweisen zu den unrichtigen Angaben im Widerspruchsbescheid und zur Argumentation. Enthält u.a. den Hinweis auf das Fehlen einer „Wetena RDC Ltd.“ und den bereits durchgeführten Kontenabruf.",
+      "key_excerpts": [
+        "Die Beklagte hat bereits im Schreiben v. 08.12.2025 eingeräumt, einen Kontenabruf durchgeführt zu haben.",
+        "Es gibt keine „Wetena RDC Ltd.“ Die britische Private Limited Company heißt „Wetena Ltd.“ und hatte auch nie einen anderen Namen."
+      ]
+    },
+    {
+      "filename": "sgg-95502-0078175-w-95502-00810-26_widerspruchsbescheid (alle Seiten).jpg",
+      "summary": "Widerspruchsbescheid vom 09.06.2026. Weist den Widerspruch als unbegründet zurück. Begründung: Der Kläger habe wesentliche Unterlagen nicht vorgelegt, seine Mitwirkungspflichten verletzt; beim Termin am 03.11.2025 habe er Auskünfte verweigert; das eigentliche Ziel sei die Übernahme der KV-Beiträge; trotz durchgeführten Kontenabrufs bestehe die Möglichkeit britischer Konten; Solaris-Konto sei kurz nach Antragstellung geschlossen worden.",
+      "key_excerpts": [
+        "Aus dem Verhalten des Widerspruchsführers beim Termin am 03.11.2025 ergibt sich, dass er Auskünfte zur Sache ausdrücklich verweigert hat.",
+        "Der Widerspruchsführer hat die zur Beurteilung seiner Hilfebedürftigkeit erforderlichen Unterlagen trotz mehrfacher Aufforderung und angemessener Fristsetzung nicht vollständig vorgelegt.",
+        "Dieses Konto wurde am 07.09.2021 eröffnet und am 04.11.2025 geschlossen mithin lediglich 23 Tage nach Einreichung des Bürgergeldantrags."
+      ]
+    },
+    {
+      "filename": "s-201-as-4623-26-er_stellungnahme (alle Seiten).jpg",
+      "summary": "Stellungnahme des Jobcenters vom 08.06.2026 im Eilverfahren. Es beantragt die Ablehnung des Eilantrags, bestreitet Anordnungsanspruch und -grund. Hebt hervor, die Komplementär-Gesellschaft sei in England registriert, daher seien britische Kontoauszüge erforderlich; die Kontoschließung des Solaris-Kontos begründe Zweifel. Der Kläger verweigere Mitwirkung und lebe bei seinen Eltern.",
+      "key_excerpts": [
+        "Der Antragsteller hat bei dem Termin am 03.11.2025 Auskünfte aus angeblich Datenschutzgründen verweigert und erklärt, bestimmte Angaben gingen die Mitarbeiterin nichts an.",
+        "Der zeitliche Zusammenhang zwischen der Antragstellung am 12.10.2025 und der Kontoschließung am 04.11.2025 ist aus Sicht der Antragsgegnerin nicht ohne Weiteres erklärbar.",
+        "Da die Hilfebedürftigkeit des Antragstellers insbesondere im Hinblick auf die ungeklärte Vermögenssituation nicht feststellbar ist, fehlt der Glaubhaftmachung des Anordnungsanspruchs."
+      ]
+    },
+    {
+      "filename": "2026-02-22 - Widerspruch Ablehnungsbescheid.txt",
+      "summary": "Widerspruchsschreiben des Klägers vom 22.02.2026. Er legt dar, dass er alle verfügbaren Unterlagen eingereicht habe, die Forderung nach inexistenten Dokumenten rechtswidrig sei und das Jobcenter seine Beratungspflicht verletzt habe.",
+      "key_excerpts": [
+        "Wenn Unterlagen angefordert werden, die es nicht gibt und auch nicht geben muß, kann dies kein Ablehnungsgrund sein.",
+        "Das Jobcenter hat die Beantwortung dieser Fragen beharrlich verweigert und ist daher m.E. nicht seinen gesetzlich vorgeschriebenen Unterstützung- und Beratungsverpflichtungen nachgekommen."
+      ]
+    },
+    {
+      "filename": "2026-02-04 - Antwort 21-01-2026.txt",
+      "summary": "Schreiben des Klägers vom 04.02.2026 als Reaktion auf das Erinnerungsschreiben des Jobcenters. Er hinterfragt die Verhältnismäßigkeit der Forderungen, insbesondere die Kontoauszüge seiner Eltern aufgrund von Vorsorgevollmachten, und weist auf die fehlende Beratung hin.",
+      "key_excerpts": [
+        "Wenn aber tatsächlich wirtschaftliche Eigenverfügbarkeit über Drittvermögen bestehen würde, dann erklären Sie mir doch bitte, warum ich meine Wohnung wegen Mietrückstand verloren habe.",
+        "Für die Beschaffung von Kontoauszügen für diese Fremdkonten werden voraussichtlich Kosten entstehen, die ich aus eigenen Mitteln nicht bezahlen kann."
+      ]
+    }
+  ],
+  "_model": "deepseek-v4-pro",
+  "_tokens_in": 91241,
+  "_tokens_out": 6416,
+  "_duration_ms": 79290
+}

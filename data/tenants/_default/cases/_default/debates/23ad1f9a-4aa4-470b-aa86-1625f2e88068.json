@@ -1,0 +1,21 @@
+{
+  "debate_id": "23ad1f9a-4aa4-470b-aa86-1625f2e88068",
+  "session_id": "wf-17ae9d24270c",
+  "status": "running",
+  "title": "The Role of AI in Modern Society: Beneficial or Detrimental?",
+  "request": {
+    "case": {
+      "text": "Just a test:\n- Please indicate who you are, and\n- what you are supposed to do."
+    },
+    "max_rounds": 5
+  },
+  "max_rounds": 5,
+  "current_round": 0,
+  "rounds": [],
+  "created_at": "2026-06-27 04:15:04.133980+00:00",
+  "updated_at": "2026-06-27 04:15:04.133980+00:00",
+  "result": null,
+  "is_mvp": true,
+  "workflow_id": "wf-f05e01a0",
+  "workflow_name": "Just a test:\n- Please indicate who you are, and\n- what you are supposed to do. (Structured Interview)"
+}

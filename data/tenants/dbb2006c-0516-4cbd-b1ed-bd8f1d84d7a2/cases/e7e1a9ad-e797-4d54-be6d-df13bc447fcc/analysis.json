@@ -1,0 +1,189 @@
+{
+  "case_summary": "Der Kläger, ein 57-jähriger Selbständiger, beantragte am 12.10.2025 beim Jobcenter Berlin Charlottenburg-Wilmersdorf Bürgergeld nach SGB II. Die Beklagte lehnte den Antrag mit Bescheid vom 09.02.2026 ab, mit der Begründung, der Kläger habe seinen Mitwirkungspflichten nicht nachgekommen und die Hilfebedürftigkeit könne nicht festgestellt werden. Der Widerspruch des Klägers wurde mit Bescheid vom 09.06.2026 zurückgewiesen. Der Kläger macht nun im Hauptsacheverfahren geltend, dass er alle zumutbaren Unterlagen eingereicht habe, die Beklagte jedoch systematisch Dokumente anfordere, die nicht existieren oder bereits vorgelegt wurden. Zudem sei die Beratungspflicht nach § 14 SGB I verletzt worden. Die Beklagte hält dem entgegen, der Kläger habe bei einem Termin am 03.11.2025 Auskünfte verweigert und wesentliche Unterlagen wie eine aktuelle Krankenkassenbescheinigung, Gesellschaftsverträge und vollständige Kontoauszüge nicht vorgelegt. Im Zentrum des Streits steht die Frage, ob die Hilfebedürftigkeit nach § 9 SGB II vorliegt und ob die Mitwirkungspflichten des Klägers erfüllt wurden.",
+  "key_facts": [
+    "Der Kläger ist 57 Jahre alt und Gesellschafter der Wetena Ltd. sowie der Wetena RDC Ltd. & Co. KG",
+    "Am 12.10.2025 wurde der Bürgergeld-Antrag gestellt, rückwirkend ab 01.10.2025",
+    "Der Kläger verlor 2024 seine Einzimmer-Mietwohnung aufgrund einer Kontopfändung durch die Krankenkasse",
+    "Der Kläger ist seit 2024 ohne eigene Wohnung und lebt bei seiner 92-jährigen Mutter",
+    "Das Gewerbe des Klägers operiert seit 2024 defizitär",
+    "Der Kläger hat Beitragsrückstände bei zwei Krankenkassen im unteren vierstelligen Bereich",
+    "Das Geschäftskonto bei Finom (IBAN DE96 1101 0101 5609 0555 81) wurde bankseitig am 04.11.2025 gekündigt, 23 Tage nach Antragstellung",
+    "Die Beklagte forderte mehrfach Unterlagen an: 24.10.2025, 08.12.2025, 21.01.2026",
+    "Der Kläger reichte umfangreiche Dokumente ein: 06.11.2025, 17.12.2025, 26.01.2026, 04.02.2026",
+    "Der Ablehnungsbescheid vom 09.02.2026 wurde mit Widerspruchsbescheid vom 09.06.2026 bestätigt",
+    "Der Kläger beantragt die Gewährung von 837,08 Euro monatlich ab 01.10.2025",
+    "Es existiert ein Parallelverfahren (S 201 AS 4623/26 ER) wegen einstweiligen Rechtsschutzes",
+    "Beide Verfahren werden von derselchen Sachbearbeiterin (Frau Hofmann) bearbeitet"
+  ],
+  "parties": [
+    {
+      "name": "[REDACTED] (Kläger)",
+      "role": "Antragsteller auf Bürgergeld nach SGB II",
+      "positions": "Der Kläger ist hilfebedürftig nach § 9 SGB II, da er ohne eigene Wohnung, mit defizitärem Gewerbe, ohne Krankenversicherungsschutz und mit Einkünften unterhalb des Existenzminimums lebt. Er hat alle zumutbaren Mitwirkungshandlungen erbracht und die Beklagte ihre Beratungspflicht verletzt."
+    },
+    {
+      "name": "Jobcenter Berlin Charlottenburg-Wilmersdorf (Beklagte)",
+      "role": "Leistungsträger nach SGB II",
+      "positions": "Der Kläger hat seine Mitwirkungspflichten nach § 60 SGB I nicht erfüllt, wesentliche Unterlagen fehlen und die Hilfebedürftigkeit ist nicht nachgewiesen. Der Kläger verweigerte Auskünfte und sein Verhalten deutet darauf hin, dass der primäre Zweck die Übernahme von Krankenversicherungsbeiträgen ist."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2024",
+      "event": "Kontopfändung durch Krankenkasse, Verlust der Einzimmer-Mietwohnung, Verlust des handelsrechtlichen Sitzes des Unternehmens, Gewerbe wird defizitär"
+    },
+    {
+      "date": "12.10.2025",
+      "event": "Antrag auf Bürgergeld nach SGB II mit sämtlichen erforderlichen Unterlagen und Bitte um Beratungstermin"
+    },
+    {
+      "date": "24.10.2025",
+      "event": "Erstes Anforderungsschreiben der Beklagten"
+    },
+    {
+      "date": "03.11.2025",
+      "event": "Termin zur Identitätsprüfung bei Frau Vujinic – laut Kläger nur Ausweiskontrolle, laut Beklagte Auskunftsverweigerung"
+    },
+    {
+      "date": "06.11.2025",
+      "event": "Zweite umfangreiche Dokumenteneinreichung des Klägers (Kontoauszüge, EKS-Prognose etc.)"
+    },
+    {
+      "date": "21.11.2025",
+      "event": "Zweiter Termin bei Herrn Littmann – laut Kläger keine Zuständigkeit für Antragstellung"
+    },
+    {
+      "date": "04.11.2025",
+      "event": "Bankseitige Kündigung des Finom-Geschäftskontos"
+    },
+    {
+      "date": "08.12.2025",
+      "event": "Zweites Anforderungsschreiben der Beklagten"
+    },
+    {
+      "date": "17.12.2025",
+      "event": "Dritte Dokumenteneinreichung des Klägers (Gewerbeanmeldung, Handelsregisterauszug etc.)"
+    },
+    {
+      "date": "21.01.2026",
+      "event": "Drittes Anforderungsschreiben der Beklagten"
+    },
+    {
+      "date": "26.01.2026",
+      "event": "Einreichung der hkk-Versicherungsbescheinigung vom 13.01.2026"
+    },
+    {
+      "date": "04.02.2026",
+      "event": "Weitere Stellungnahme des Klägers"
+    },
+    {
+      "date": "09.02.2026",
+      "event": "Ablehnungsbescheid der Beklagten"
+    },
+    {
+      "date": "18.02.2026",
+      "event": "Widerspruch des Klägers"
+    },
+    {
+      "date": "09.06.2026",
+      "event": "Widerspruchsbescheid – Zurückweisung des Widerspruchs"
+    },
+    {
+      "date": "01.06.2026",
+      "event": "Klageerwiderung im Eilverfahren (S 201 AS 4623/26 ER)"
+    },
+    {
+      "date": "15.06.2026",
+      "event": "Klageschrift im Hauptsacheverfahren"
+    },
+    {
+      "date": "02.07.2026",
+      "event": "Stellungnahme der Beklagten im Hauptsacheverfahren"
+    },
+    {
+      "date": "30.07.2026",
+      "event": "Klageerwiderung des Klägers"
+    }
+  ],
+  "key_issues": [
+    "Liegt eine Hilfebedürftigkeit im Sinne des § 9 SGB II vor?",
+    "Hat der Kläger seine Mitwirkungspflichten nach § 60 SGB I erfüllt?",
+    "Wurde die Beratungspflicht nach § 14 SGB I durch die Beklagte verletzt?",
+    "Sind die Mitwirkungsanforderungen der Beklagten zumutbar nach § 65 SGB I?",
+    "Existiert eine Gesellschaft namens 'Wetena RDC Ltd. & Co. KG' oder handelt es sich um die Wetena Ltd.?",
+    "Ist die Forderung nach Kontoauszügen 'britischer Gesellschafts- und Geschäftskonten' zumutbar?",
+    "War die Kündigung des Finom-Kontos bankseitig oder durch den Kläger veranlasst?",
+    "Liegt eine Auskunftsverweigerung beim Termin am 03.11.2025 vor?",
+    "Ist der Gesellschaftsvertrag einer Ein-Personen-Gesellschaft darlegungspflichtig?",
+    "Können Krankenversicherungsbeiträge isoliert ohne Bürgergeldanspruch übernommen werden?"
+  ],
+  "documents": [
+    {
+      "filename": "2026-07-30 - SG - S 201 AS 5181-26 - Antwort_anon.odt",
+      "summary": "Klageerwiderung des Klägers auf die Stellungnahme der Beklagten vom 02.07.2026. Der Kläger widerlegt detailliert die Behauptungen der Beklagten zu fehlenden Unterlagen und weist nach, dass diese bereits eingereicht wurden oder nicht existieren.",
+      "key_excerpts": [
+        "Die Klageerwiderung der Beklagten vom 2. Juli 2026 enthält keine substantiierte Auseinandersetzung mit dem klägerischen Vortrag",
+        "Eine aktuelle Mitgliedsbescheinigung der hkk Krankenkasse vom 13. Januar 2026 wurde der Beklagten mit Schreiben vom 26. Januar 2026 übersandt",
+        "Ein gesonderter Gesellschaftsvertrag, der von den gesetzlichen Regelungen des HGB abweichende Regelungen zu Entnahmerechten oder Gewinnbeteiligung enthält, besteht nicht",
+        "Der vollständige 'Dachmietvertrag für den Betrieb einer Solarstromanlage' wurde mit Schreiben vom 6. November 2025 eingereicht",
+        "Es gibt keine 'britischen Gesellschafts- und Geschäftskonten' der Wetena Ltd. und es hat nie welche gegeben",
+        "Das Finom-Konto wurde bankseitig gekündigt; vgl. die beigefügte E-Mail v. 03.09.2025. Das Restguthaben wurde am 22.09.2025 auf das Nachfolgekonto überwiesen"
+      ]
+    },
+    {
+      "filename": "2026-06-17 - SG- S 201 AS 4623-26 ER - Eilverfahren_Anon.odt",
+      "summary": "Dokument im Eilverfahren (S 201 AS 4623/26 ER) – der Inhalt ist als binäre ODT-Datei ohne extrahierbaren Text übermittelt.",
+      "key_excerpts": [
+        "Binärdokument – kein extrahierbarer Textinhalt"
+      ]
+    },
+    {
+      "filename": "2026-06-01 - SG- Az neu - UntK+eA+LeistK_Anon.odt",
+      "summary": "Dokument zum Verfahrensgang – der Inhalt ist als binäre ODT-Datei ohne extrahierbaren Text übermittelt.",
+      "key_excerpts": [
+        "Binärdokument – kein extrahierbarer Textinhalt"
+      ]
+    },
+    {
+      "filename": "2026-06-15 - SG- Az neu (S 201 AS 4623-26 ER) - Hauptsacheverfahren.txt",
+      "summary": "Klageschrift im Hauptsacheverfahren mit detailliertem Sachverhalt, Verfahrensgang und rechtlichen Argumenten. Der Kläger beantragt die Aufhebung des Widerspruchsbescheides und die Verpflichtung zur Gewährung von Leistungen.",
+      "key_excerpts": [
+        "Der Kläger beantragte am 12.10.2025 Bürgergeld nach SGB II beim Jobcenter Berlin Charlottenburg-Wilmersdorf",
+        "Zuvor hatte er aufgrund einer Kontopfändung durch seine damalige Krankenversicherung seine Mietwohnung und damit die Betriebsstätte seines Personenunternehmens verloren",
+        "Die Beklagte hat diese Pflicht systematisch verletzt und damit die Ursache für die angeblichen Nachweisdefizite selbst gesetzt",
+        "Die Anforderung von Kontoauszügen einer angeblichen 'Wetena RDC Ltd.' ist unzumutbar, weil diese Gesellschaft nicht existiert",
+        "Der Kläger hat mit der Einreichung von insgesamt ca. 200 Seiten an Dokumenten und Nachweisen in seinen fünf Schreiben alle zumutbaren Mitwirkungshandlungen erbracht"
+      ]
+    },
+    {
+      "filename": "2026-07-02_s-201-as-5181-26_1.jpg",
+      "summary": "Erste Seite der Stellungnahme der Beklagten vom 02.07.2026 – Antrag auf Abweisung der Klage und Darlegung des Sachverhalts aus Sicht des Jobcenters.",
+      "key_excerpts": [
+        "Am 03.11.2025 erschien der Kläger bei der Beklagten zur Identitätsprüfung. Bei diesem Termin erklärte er gegenüber der Mitarbeiterin ausdrücklich, er wolle aus Datenschutzgründen keine weiteren Angaben machen",
+        "Auf Nachfragen äußerte er, mit den hohen Kosten der Krankenversicherung nicht mehr einverstanden zu sein"
+      ]
+    },
+    {
+      "filename": "2026-07-02_s-201-as-5181-26_2.jpg",
+      "summary": "Zweite Seite der Stellungnahme der Beklagten – Aufzählung der angeblich fehlenden Unterlagen und rechtliche Würdigung.",
+      "key_excerpts": [
+        "Konkret fehlten insbesondere: eine aktuelle Mitgliedsbescheinigung der Krankenkasse, der Gesellschaftsvertrag der Wetena RDC Ltd. & Co. KG, ein vollständiger Mietvertrag, die Anlage EKS als Prognose, vollständige Kontoauszüge aller Konten",
+        "Bereits dem Grunde nach bestehen erhebliche Zweifel, ob der Kläger tatsächlich im Sinne des § 9 SGB II hilfebedürftig ist",
+        "Dieses Verhalten legt nahe, dass das eigentliche Ziel des Bürgergeldantrags nicht primär die Sicherung des Lebensunterhalts ist, sondern vorrangig die Übernahme der laufenden Kranken- und Pflegeversicherungsbeiträge"
+      ]
+    },
+    {
+      "filename": "2026-07-02_s-201-as-5181-26_3.jpg",
+      "summary": "Dritte Seite der Stellungnahme der Beklagten – Darlegung zu den Konten und abschließende Anträge.",
+      "key_excerpts": [
+        "Der Kläger ist Gesellschafter der Wetena RDC Ltd. & Co. KG, deren Komplementarin eine am 18.06.2018 beim Registrar of Companies for England und Wales eingetragene englische Private Limited Company ist",
+        "Das Geschäftskonto bei Solaris SE wurde am 07.09.2021 eröffnet und am 04.11.2025 geschlossen – mithin lediglich 23 Tage nach Einreichung des Bürgergeldantrags",
+        "Die Schließung eines Geschäftskontos in unmittelbarem zeitlichem Zusammenhang mit der Antragstellung begründet die Frage, ob Kontoguthaben oder Vermögenswerte in anrechnungsrelevanter Höhe abgeflossen sind"
+      ]
+    }
+  ],
+  "_model": "LongCat-2.0",
+  "_tokens_in": 52674,
+  "_tokens_out": 4805,
+  "_duration_ms": 103575
+}

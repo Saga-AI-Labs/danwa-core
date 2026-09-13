@@ -1,0 +1,25 @@
+{
+  "debate_id": "5cd7b3d4-beb7-49a4-9d13-9b790768ae51",
+  "session_id": "wf-3c580764d0ea",
+  "status": "cancelled",
+  "title": "Anforderungen an gerichtsfeste Schriftsätze: Formale Korrektheit und Zitationspraxis",
+  "request": {
+    "case": {
+      "text": "Bitte das Dokument \"2026-06-16 - SG- S 201 AS 4623-26 ER - Eilverfahren.txt\" (im RAG abrufbar) prüfen\n- auf formale Korrektheit,\n- auf inhaltliche/logische Schlüssigkeit,\n- auf korrekte Zitation von Urteilsquellen.\n\nEs handelt sich bei dem Dokument um einen Entwurf für eine Stellungnahme zu dem Schriftsatz \"s-201-as-4623-26-er_stellungnahme_*.jpg\" (im RAG, aber nicht mehr Jpeg sondern Texterkennung mittels OCR). Ziel ist es, ein gerichtsfestes Dokument zum Einreichen bei einem deutschen Sozialgericht zu erhalten."
+    },
+    "max_rounds": 3
+  },
+  "max_rounds": 3,
+  "current_round": 0,
+  "rounds": [],
+  "created_at": "2026-06-18 03:18:26.211209+00:00",
+  "updated_at": "2026-06-18 03:18:26.211209+00:00",
+  "result": null,
+  "is_mvp": true,
+  "llm_assignments": {
+    "strategist": "tokenrouter-iniax-3-268k",
+    "critic": "b006090a-3ed2-4e58-bf30-2942438856b1",
+    "optimizer": "tokenrouter-iniax-3-268k",
+    "moderator": "b006090a-3ed2-4e58-bf30-2942438856b1"
+  }
+}

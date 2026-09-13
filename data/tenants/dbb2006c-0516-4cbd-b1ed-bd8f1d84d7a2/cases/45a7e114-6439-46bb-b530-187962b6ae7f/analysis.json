@@ -1,0 +1,145 @@
+{
+  "case_summary": "Der Kläger, ein seit dem 01.06.2022 freiwillig versichertes Mitglied der Handelskrankenkasse (hkk), bekämpft die Beitragsfestsetzung auf Basis der Mindestbemessungsgrenze. Seine Einkünfte aus selbstständiger Tätigkeit lagen 2022 bei -10.525 Euro und 2023 bei 2.937 Euro, womit die gesetzliche Mindestgrenze für freiwillig Versicherte unterschritten wurde, was die Beklagte zur Anwendung der Mindestbemessungsgrundlage verpflichtete. Der Kläger beantragte eine Stundung der Beiträge unter Berufung auf persönliche Härten wie Wohnungsverlust, ruhendes Gewerbe und Ausbleiben von Sozialleistungen, welche die Beklagte ablehnte, da der Kläger keine erheblichen Härte nachweise und die wirtschaftliche Leistungsfähigkeit durch alle verfügbaren Geldmittel bestimmt werde. Nach Ablehnung des Widerspruchs vom 10.04.2026 erhob der Kläger Klage beim Sozialgericht Berlin (Az. S 31 KR 842/26). Die Beklagte verteidigt ihre Entscheidung mit den gesetzlichen Vorgaben des § 240 SGB V und den Beitragsverfahrensgrundsätzen Selbstzahler und hat in ihren Schriftsätzen die Klageabweisung beantragt.",
+  "key_facts": [
+    "Kläger ist seit 01.06.2022 freiwillig versichertes Mitglied der hkk",
+    "Einkommen des Klägers 2022: -10.525 Euro (monatlich 877,08 Euro)",
+    "Einkommen des Klägers 2023: 2.937 Euro (monatlich 244,75 Euro)",
+    "Die Einkünfte liegen unter der gesetzlichen Mindestbemessungsgrenze (1/3 der monatlichen Bezugsgröße)",
+    "Endgültige Beitragsbescheide wurden am 20.06.2025 für die Zeit vom 01.06.2022 bis 31.12.2023 erlassen",
+    "Antrag des Klägers auf Stundung der Beiträge wurde abgelehnt",
+    "Widerspruch des Klägers wurde am 10.04.2026 zurückgewiesen",
+    "Klage wurde am 18.04.2026 beim Sozialgericht Berlin eingereicht (Az. S 31 KR 842/26)"
+  ],
+  "parties": [
+    {
+      "name": "Namentlich nicht genannt (Kläger)",
+      "role": "Freiwillig versichertes Mitglied / Kläger",
+      "positions": "Fordert Reduzierung oder Stundung der Beiträge aufgrund niedrigen Einkommens und persönlicher Härten (Wohnungsverlust, ruhendes Gewerbe, Ausbleiben von Sozialleistungen). Rügt eine Verletzung der Beratungspflicht und einen Ermessensnichtgebrauch der Beklagten."
+    },
+    {
+      "name": "Handelskrankenkasse (hkk)",
+      "role": "Beklagte",
+      "positions": "Verteidigt die Beitragsfestsetzung auf Basis der Mindestbemessungsgrenze gemäß § 240 SGB V und den Beitragsverfahrensgrundsätzen Selbstzahler. Lehnt eine Stundung mangels Nachweises erheblicher Härte und mangels Eignung des Klägers zur Selbstzahlung ab."
+    }
+  ],
+  "timeline": [
+    {
+      "date": "01.06.2022",
+      "event": "Beginn der freiwilligen Versicherung des Klägers bei der hkk"
+    },
+    {
+      "date": "23.10.2024",
+      "event": "Ausstellung des Einkommensteuerbescheids 2022 durch das Finanzamt"
+    },
+    {
+      "date": "11.02.2025",
+      "event": "Ausstellung des Einkommensteuerbescheids 2023 durch das Finanzamt"
+    },
+    {
+      "date": "20.06.2025",
+      "event": "Endgültige Beitragsfestsetzung der Beklagten für die Zeit vom 01.06.2022 bis 31.12.2023"
+    },
+    {
+      "date": "28.08.2025",
+      "event": "Frist- und formgerechte Widerklagelegung des Klägers"
+    },
+    {
+      "date": "10.04.2026",
+      "event": "Zurückweisung des Widerspruchs durch die Beklagte"
+    },
+    {
+      "date": "18.04.2026",
+      "event": "Klageerhebung beim Sozialgericht Berlin"
+    },
+    {
+      "date": "27.05.2026",
+      "event": "Stellungnahme der Beklagten zum Klageverfahren"
+    },
+    {
+      "date": "07.06.2026",
+      "event": "Stellungnahme des Klägers zum Klageverfahren"
+    },
+    {
+      "date": "23.07.2026",
+      "event": "Weitere Stellungnahme der Beklagten zum Schriftsatz des Klägers"
+    }
+  ],
+  "key_issues": [
+    "Anwendbarkeit der Mindestbemessungsgrenze bei freiwillig Versicherten mit nachweislich niedrigem oder negativem Einkommen",
+    "Voraussetzungen für eine Stundung von Beiträgen (erhebliche Härte gemäß § 76 Abs. 2 SGB IV und Beitragserhebungsgrundsätzen)",
+    "Definition der wirtschaftlichen Leistungsfähigkeit (Verbrauch vs. Verbrauchbarkeit von Geldmitteln)",
+    "Ermessensausübung und Ermessensnichtgebrauch bei der Prüfung individueller Härtefälle und der Beratungspflicht"
+  ],
+  "documents": [
+    {
+      "filename": "2026-07-23_s-31-kr-842-26_2.jpg",
+      "summary": "Zweite Seite der Stellungnahme der Beklagten vom 23.07.2026. Die Beklagte entgegnet den Vorwürfen des Klägers bezüglich der Beratungspflicht und des Systemversagens und rechtfertigt die Ablehnung der Stundung.",
+      "key_excerpts": [
+        "Die Beklagte hat die individuellen Sachverhaltsdarstellungen des Klägers [...] nicht substantiiert in Frage gestellt, da eine individuelle Situation des Klägers bei der Ablehnung des Stundungsantrags nicht geprüft hat",
+        "Jedoch liegen die Voraussetzungen für eine Stundung [...] nicht vor, da die wirtschaftliche Leistungsfähigkeit durch alle Einnahmen und Geldmittel bestimmt wird, die das Mitglied zum Lebensunterhalt verbraucht oder verbrauchen könnte."
+      ]
+    },
+    {
+      "filename": "2026-07-23_s-31-kr-842-26_1.jpg",
+      "summary": "Erseite Seite der Stellungnahme der Beklagten vom 23.07.2026. Enthält die formelle Stellungnahme zum Schriftsatz des Klägers und die Darlegung der Beitragsgrundlagen.",
+      "key_excerpts": [
+        "Beitragsansprüche dürfen nur gestundet werden, wenn die sofortige Einziehung mit erheblichen Härten für den Anspruchsgegner verbunden wäre und der Anspruch durch die Stundung nicht gefährdet wird."
+      ]
+    },
+    {
+      "filename": "2026-06-07 - SG - S 31 KR 842-26 - Stellungnahme_anon.odt",
+      "summary": "Stellungnahme des Klägers vom 07.06.2026 im Rahmen des Klageverfahrens. (Inhalt als Binärdaten vorliegend, nicht textlich auslesbar).",
+      "key_excerpts": [
+        "[Binäre Daten - Inhalt nicht extrahierbar]"
+      ]
+    },
+    {
+      "filename": "2026-05-27_s-31-kr-842-26_4.jpg",
+      "summary": "Vierte Seite der Stellungnahme der Beklagten vom 27.05.2026. Behandelt die Beitragserhebungsgrundsätze, die Voraussetzungen für Stundungen und das Leistungsruhen.",
+      "key_excerpts": [
+        "Die Realisierung des Beitragsanspruchs ist gefährdet, wenn sich der Anspruchsgegner nicht nur in vorübergehenden Zahlungsschwierigkeiten befindet oder eine Überschuldung in absehbarer Zeit offensichtlich nicht abgebaut werden kann."
+      ]
+    },
+    {
+      "filename": "2026-05-27_s-31-kr-842-26_3.jpg",
+      "summary": "Dritte Seite der Stellungnahme der Beklagten vom 27.05.2026. Enthält die detaillierte Berechnung des Einkommens des Klägers und die Darlegung des Widerspruchsverfahrens.",
+      "key_excerpts": [
+        "Mit dem Einkommensteuerbescheid für das Jahr 2022 wurde das Arbeitseinkommen in Höhe von -10.525 Euro ausgewiesen.",
+        "Der Einkommensteuerbescheid 2023 weist ein Arbeitseinkommen in Höhe von 2.937 Euro aus."
+      ]
+    },
+    {
+      "filename": "2026-05-27_s-31-kr-842-26_2.jpg",
+      "summary": "Zweite Seite der Stellungnahme der Beklagten vom 27.05.2026. Darlegung der rechtlichen Grundlagen zur Beitragsbemessung und der Mindestbemessungsgrundlage.",
+      "key_excerpts": [
+        "Die wirtschaftliche Leistungsfähigkeit wird durch alle Einnahmen und Geldmittel bestimmt, die das Mitglied zum Lebensunterhalt verbraucht oder verbrauchen könnte",
+        "Als monatliche Mindestbemessungsgrundlage [...] gilt nach § 240 Abs. 4 Satz 1 SGB V [...] mindestens ein Drittel der monatlichen Bezugsgröße."
+      ]
+    },
+    {
+      "filename": "2026-05-27_s-31-kr-842-26_1.jpg",
+      "summary": "Erste Seite der Stellungnahme der Beklagten vom 27.05.2026. Formelle Überschrift und Antrag auf Klageabweisung.",
+      "key_excerpts": [
+        "Strittig ist die Einstufung als freiwillig Versicherter in Höhe der Mindestbemessungsgrenze."
+      ]
+    },
+    {
+      "filename": "2026-04-18 - SG - Az neu - Klage Widerspruchsbescheid_anon.odt",
+      "summary": "Klage des Klägers gegen den Widerspruchsbescheid vom 18.04.2026. (Inhalt als Binärdaten vorliegend, nicht textlich auslesbar).",
+      "key_excerpts": [
+        "[Binäre Daten - Inhalt nicht extrahierbar]"
+      ]
+    },
+    {
+      "filename": "2026-01-25 - Widerspruch Beitragsbescheid 2026_anon.odt",
+      "summary": "Widerspruch des Klägers gegen den Beitragsbescheid 2026 vom 25.01.2026. (Inhalt als Binärdaten vorliegend, nicht textlich auslesbar).",
+      "key_excerpts": [
+        "[Binäre Daten - Inhalt nicht extrahierbar]"
+      ]
+    }
+  ],
+  "_model": "LongCat-2.0",
+  "_tokens_in": 56337,
+  "_tokens_out": 7583,
+  "_duration_ms": 175318
+}
