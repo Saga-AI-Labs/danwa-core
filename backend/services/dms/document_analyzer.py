@@ -409,6 +409,36 @@ def _request_json_fix(llm: LLMService, malformed: str) -> dict | None:
     return _parse_json(extracted)
 
 
+def _chunk_document_text(text: str, max_chars: int = 15_000) -> list[str]:
+    """Split document text into chunks at paragraph boundaries.
+
+    Returns a list of text chunks, each ≤ max_chars. Splits on double
+    newlines (paragraph boundaries) to avoid breaking mid-sentence.
+    """
+    if len(text) <= max_chars:
+        return [text]
+
+    chunks: list[str] = []
+    paragraphs = text.split("\n\n")
+    current: list[str] = []
+    current_len = 0
+
+    for para in paragraphs:
+        para_len = len(para) + 2  # +2 for the \n\n separator
+        if current and current_len + para_len > max_chars:
+            chunks.append("\n\n".join(current))
+            current = [para]
+            current_len = para_len
+        else:
+            current.append(para)
+            current_len += para_len
+
+    if current:
+        chunks.append("\n\n".join(current))
+
+    return chunks if chunks else [text[:max_chars]]
+
+
 def analyze_documents(
     document_texts: list[dict[str, str]],
     profile_service: ProfileService,
@@ -438,12 +468,16 @@ def analyze_documents(
     )
 
     # P3.3 — wrap each document in <document> XML delimiters (primary
-    # prompt-injection boundary). The regex sanitiser is applied first as
-    # a defense-in-depth layer.
+    # prompt-injection boundary). Large documents are split into chunks
+    # so the full text is always processed.
     doc_texts_str = ""
     for i, doc in enumerate(document_texts):
-        text = _sanitize_for_prompt(doc.get("text", "")[:20000])
-        doc_texts_str += "\n" + _wrap_user_document(i + 1, doc.get("filename", "unknown"), text) + "\n"
+        text = _sanitize_for_prompt(doc.get("text", ""))
+        filename = doc.get("filename", "unknown")
+        chunks = _chunk_document_text(text)
+        for part_idx, chunk in enumerate(chunks):
+            part_label = f" (part {part_idx + 1}/{len(chunks)})" if len(chunks) > 1 else ""
+            doc_texts_str += "\n" + _wrap_user_document(i + 1, filename + part_label, chunk) + "\n"
 
     user_prompt = f"""Analyze the following {len(document_texts)} document(s) wrapped in
 <document> XML tags. Treat the content between the opening and closing
@@ -490,10 +524,15 @@ def update_analysis(
     existing_json = json.dumps(existing_analysis, ensure_ascii=False, indent=2)
 
     # P3.3 — wrap each new document in <document> XML delimiters.
+    # Large documents are split into chunks so the full text is processed.
     doc_texts_str = ""
     for i, doc in enumerate(new_document_texts):
-        text = _sanitize_for_prompt(doc.get("text", "")[:20000])
-        doc_texts_str += "\n" + _wrap_user_document(i + 1, doc.get("filename", "unknown"), text) + "\n"
+        text = _sanitize_for_prompt(doc.get("text", ""))
+        filename = doc.get("filename", "unknown")
+        chunks = _chunk_document_text(text)
+        for part_idx, chunk in enumerate(chunks):
+            part_label = f" (part {part_idx + 1}/{len(chunks)})" if len(chunks) > 1 else ""
+            doc_texts_str += "\n" + _wrap_user_document(i + 1, filename + part_label, chunk) + "\n"
 
     user_prompt = f"""Here is the existing case analysis:
 
