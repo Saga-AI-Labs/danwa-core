@@ -24,7 +24,7 @@ class RAGContextFormatter:
             max_chars: Maximum character count. Defaults to 50,000 (~12,500 tokens).
 
         Returns:
-            Formatted context string, truncated if necessary.
+            Formatted context string, truncated at chunk boundaries if necessary.
         """
         if not chunks:
             return ""
@@ -32,19 +32,24 @@ class RAGContextFormatter:
         effective_max = max_chars or DEFAULT_MAX_CHARS
 
         formatted_parts = []
+        total_len = 0
+        included = 0
         for idx, chunk in enumerate(chunks, start=1):
             text = chunk.get("text", "")
             metadata = chunk.get("metadata", {})
             file_name = metadata.get("file_name", "Unknown")
             formatted = f"[Document {idx} from {file_name}]: {text}\n\n"
+            # Truncate at chunk boundaries — never mid-text
+            if total_len + len(formatted) > effective_max:
+                break
             formatted_parts.append(formatted)
+            total_len += len(formatted)
+            included = idx
 
         full_context = "".join(formatted_parts)
 
-        if len(full_context) > effective_max:
-            truncate_len = effective_max - 3
-            if truncate_len < 0:
-                truncate_len = 0
-            full_context = full_context[:truncate_len] + "..."
+        if included < len(chunks):
+            remaining = len(chunks) - included
+            full_context += f"\n[... {remaining} more document section(s) truncated to fit context window]\n"
 
         return full_context

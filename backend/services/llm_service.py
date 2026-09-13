@@ -306,7 +306,7 @@ class LLMService:
             if protocol == "a2a":
                 result = await self._generate_a2a(messages, temp, tokens, tools=tools)
             # Route: local/OpenAI-compatible providers → direct HTTP, cloud providers → litellm
-            elif self._profile.provider.value in {"local", "ollama", "opencode-zen", "opencode-go", "meituan"}:
+            elif self._profile.provider.value in {"local", "ollama", "opencode-zen", "opencode-go", "meituan", "orcarouter"}:
                 result = await self._generate_local(messages, temp, tokens, tools=tools, extra_kwargs=extra_kwargs)
             elif self._profile.provider == LLMProvider.CLOUDFLARE:
                 result = await self._generate_cloudflare(messages, temp, tokens, extra_kwargs=extra_kwargs)
