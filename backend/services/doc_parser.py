@@ -65,6 +65,11 @@ class DocumentParser:
                 doc = Document(str(path))
                 text = "\n\n".join(p.text for p in doc.paragraphs)
 
+            elif ext in (".tex", ".latex", ".sty", ".cls"):
+                from backend.services.tex_parser import parse_tex
+
+                text = parse_tex(path)
+
             else:
                 text = path.read_text(encoding="utf-8", errors="ignore")
 
