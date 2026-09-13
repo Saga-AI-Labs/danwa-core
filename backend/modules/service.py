@@ -36,9 +36,9 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 MODULES_DIR = ROOT / "modules"
 DEFAULT_DB = ROOT / "data" / "blueprints.db"
 
-DANWA_MODULES_REPO = "asb-42/danwa-modules"
-DANWA_MODULES_INDEX_URL = "https://raw.githubusercontent.com/asb-42/danwa-modules/main/index.json"
-DANWA_MODULES_RELEASE_URL = "https://github.com/asb-42/danwa-modules/releases/download/v{version}/{module_id}.zip"
+DANWA_MODULES_REPO = "Saga-AI-Labs/danwa-modules"
+DANWA_MODULES_INDEX_URL = "https://raw.githubusercontent.com/Saga-AI-Labs/danwa-modules/main/index.json"
+DANWA_MODULES_RELEASE_URL = "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v{version}/{module_id}.zip"
 
 
 class ModuleService:

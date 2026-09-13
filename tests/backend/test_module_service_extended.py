@@ -329,7 +329,7 @@ class TestFetchRepoIndex:
 
     def test_get_download_url(self, service: ModuleService) -> None:
         url = service.get_download_url("alpha", "1.2.3")
-        assert url == "https://github.com/asb-42/danwa-modules/releases/download/v1.2.3/alpha.zip"
+        assert url == "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.2.3/alpha.zip"
 
     def test_default_url_constant(self) -> None:
         assert "raw.githubusercontent.com" in DANWA_MODULES_INDEX_URL

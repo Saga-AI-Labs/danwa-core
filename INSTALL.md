@@ -79,9 +79,9 @@ parent-dir/
 
 ```bash
 mkdir ~/danwa-stack && cd ~/danwa-stack
-git clone https://github.com/asb-42/danwa-core.git
-git clone https://github.com/asb-42/danwa.git
-git clone https://github.com/asb-42/danwa-studio.git
+git clone https://github.com/Saga-AI-Labs/danwa-core.git
+git clone https://github.com/Saga-AI-Labs/danwa.git
+git clone https://github.com/Saga-AI-Labs/danwa-studio.git
 
 cd danwa-core
 bash setup.sh        # installs uv, Python deps, vendors libdanwa.sh

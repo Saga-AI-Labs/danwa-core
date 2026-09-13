@@ -94,7 +94,7 @@ class Settings(BaseSettings):
     # ``danwa-modules`` repository.
     modules_publish_enabled: bool = False
     modules_publish_dir: Path = Path("data/danwa-modules-repo")
-    modules_publish_repo_url: str = "https://github.com/asb-42/danwa-modules.git"
+    modules_publish_repo_url: str = "https://github.com/Saga-AI-Labs/danwa-modules.git"
     modules_publish_remote: str = "origin"
     modules_publish_push_remote: str = "origin"
     modules_publish_base_branch: str = "main"
