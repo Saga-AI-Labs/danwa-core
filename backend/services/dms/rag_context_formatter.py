@@ -8,9 +8,10 @@ from typing import Any
 
 logger = logging.getLogger(__name__)
 
-# ~12,500 tokens — fits comfortably in the smallest context windows (32K)
-# while leaving room for system prompt, user prompt, and agent output.
-DEFAULT_MAX_CHARS = 50_000
+# ~25,000 tokens — fits in most context windows while leaving room for
+# system prompt, user prompt, and agent output. Callers can override
+# with max_chars for explicit document selections.
+DEFAULT_MAX_CHARS = 100_000
 
 
 class RAGContextFormatter:

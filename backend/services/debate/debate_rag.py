@@ -301,7 +301,7 @@ def resolve_rag_context_with_debate_results(
             seen_texts.add(text)
             unique_chunks.append(chunk)
 
-    rag_context = dms.format_rag_context(unique_chunks)
+    rag_context = dms.format_rag_context(unique_chunks, max_chars=80_000 if document_ids else None)
 
     if analysis_text:
         rag_context = f"{analysis_text}\n\n=== DOCUMENT EXCERPTS ===\n\n{rag_context}" if rag_context else analysis_text
